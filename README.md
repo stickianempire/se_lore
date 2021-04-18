@@ -1,2 +1,2 @@
-### Lore
-- The Lore of Stickian Empire -
+# Stickian's Empire Lore 
+The Lore of Stickian Empire.
