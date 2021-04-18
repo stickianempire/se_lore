@@ -1,2 +1,2 @@
-# se_lore
-The Lore of Stickian Empire.
+### Lore
+- The Lore of Stickian Empire -
